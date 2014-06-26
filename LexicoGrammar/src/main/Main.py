@@ -11,6 +11,7 @@ from nltk.tag.util import str2tuple
 
 exemples = ["And now, you don't do something completely different.",'San Francisco is foggy']
 
+
 def printExemple(sentence):
     
     print('\t---sentence:')
