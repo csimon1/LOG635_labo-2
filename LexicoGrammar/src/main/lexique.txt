@@ -1,0 +1,63 @@
+./.
+Benoit/NP
+Charly/NP
+Nana/NP
+LOG635/NP
+
+
+
+il/PRONOM(SUJET SG MASC 3)
+elle/PRONOM(SUJET SG FEMI 3)
+ils/PRONOM(SUJET PL ? 3)
+elles/PRONOM(SUJET PL FEMI 3)
+
+
+
+a/V(CONJ SG 3)
+ont/V(CONJ PL 3)
+est/V(CONJ SG 3)
+sont/V(CONJ PL 3)
+va/V(CONJ SG 3)
+vont/V(CONJ PL 3)
+
+coucher/V(INF)
+
+croisé/PP(MASC SG)
+fatigué/PP(MASC SG)
+
+
+
+
+
+dans/PREP
+de/PREP
+
+
+et/CC
+
+
+au/DET(MASC SG)
+la/DET(FEMI SG)
+
+
+fièvre/NC(FEMI SG)
+laboratoire/NC(MASC SG)
+temps/NC(MASC ?)
+toux/NC(FEMI ?)
+tête/NC(FEMI SG)
+
+
+mal/ADJ
+ce/ADJ(DEM MASC)
+cette/ADJ(DEM MASC)
+
+
+aussi/ADV
+
+
+peu/PRONOM
+se/PRONOM
+
+
+à/PREP
+
